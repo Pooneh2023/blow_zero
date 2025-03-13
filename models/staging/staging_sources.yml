@@ -10,5 +10,5 @@ sources:
 - name: flights_data
   schema: below_zero
   tables:
-    - name: flights
+    - name: flights_05_07
     - name: airports
